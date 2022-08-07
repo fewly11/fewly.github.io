@@ -1,0 +1,38 @@
+<package>
+	<id>com.fewly1.appshacks</id>
+	<name>Apps Hacks</name>
+	<version>4.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxIOS>14.5</maxIOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Kích hoạt bản quyền cho các ứng dụng trả phí!</shortDescription>
+	<descriptionlist>
+		<description>tinh chỉnh giúp kích hoạt vip cho nhièu úng dụng miẽn phí!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>một vài mô tả vè ảnh chụp màn hình</description>
+			<image>apphacks.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>ảnh chụp màn hình</description>
+			<image>apphacks1.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>dả cập nhạt bản mói nhất</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/user/Lonely_Detective_822</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

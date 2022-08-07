@@ -1,0 +1,653 @@
+Package: youtube-reborn
+Name: YouTube Reborn
+Architecture: iphoneos-arm
+Description: YouTube 
+Maintainer: SarahH12099 
+Author: SarahH12099 
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip
+Replaces: net.sarahh12099.youtubereborn
+Version: 1.0.7.3
+Installed-Size: 944
+Depiction: https://fewly1.github.io
+Tag: compatible_min::ios12.0, compatible_max::ios14.2
+Filename: ./debs/youtube-reborn.deb
+Size: 182678 
+MD5sum: feb133b2f439b259501d34cee2ed55e6
+
+Package: cercube
+Version: 5.2.11N
+Priority: optional
+Section: Tweaks
+Maintainer: fewly1
+Description: Bổ sung tính năng cho Youtube!
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Architecture: iphoneos-arm
+Name: Cercube YouTube VN
+Installed-Size: 17080
+Author: Majd Alfhaily
+Depiction: Fewly1
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Filename: ./debs/cercube_5.2.11.deb
+Size: 5976960
+MD5sum: c9de3bc0c90257c3ca7a532cb6231228
+
+Package: rocket
+Version: 3.7.17
+Priority: optional
+Section: Tweaks
+Maintainer: fewly1
+Description: Bổ sung các tính năng cho Instagram
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Architecture: iphoneos-arm
+Name: Rocket Instagram VN
+Author: Majd Alfhaily
+Depiction: fewly1.github.io
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Filename: ./debs/rocket_3.7.17.deb
+Size: 6076702
+MD5sum: 99a85188c259d151fe50616536739851
+
+
+Package: com.fewly1.appdatamanager
+Name: Apps Manager
+Author: TIGI Software <satashi2009@gmail.com>
+Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Maintainer: fewly1
+Version: 1.6.0-9k
+Installed-Size: 9122
+Section: Utilities
+Depends: firmware (>= 7.0)
+Depiction: fewly1
+Architecture: iphoneos-arm
+Icon: https://cydia.saurik.com/icon/com.tigisoftware.appdatamanager.png
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Filename: ./debs/com.fewly1.appdatamanager_1.6.0-9k_iphoneos-arm.deb
+Size: 3709388
+MD5sum: aebdcc82ce06e2770e4b336302c4eed6
+
+Package: com.fewly1.Flex3-98
+Name: Flex3
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Recommended: com.rpetrich.rocketbootstrap
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Version: 1:3~Beta98
+Architecture: iphoneos-arm
+Description: Develop your own tweaks
+Maintainer: fewly1
+Author: John coates
+Section: Tweaks
+Filename: ./debs/fewly1.Flex398.deb
+Size: 14346562
+MD5sum: 745141ad65ff6abc70ac902c125b5858
+
+Package: com.fewly1.freepip
+Name: FreePIP
+Version: 0.0.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Author: fewly1
+Maintainer: Soh Satoh
+Description: Picture-in-Picture 
+Filename: ./debs/freepip.deb
+Size: 9544
+MD5sum: 55de65ca0b0dfa2a67a62ec76347e6a8
+
+Package: com.fewly1.IPA
+Name: Trích FILE IPA
+Author: c0pyn1nja
+Description: Trích File IPA một ứng dụng bất kỳ mà bạn muốn.Mình đã test trên ios 11&14 đều hoạt động rất ok nhé Các Bạn.
+Maintainer: fewly1
+Version: 1.1.1
+Section: System
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Filename: ./debs/ipa.deb
+Size: 9962122
+MD5sum: ed981e2686afbdc0a80648983720e094
+
+Package: com.fewly1.lunartime
+Version: 0.1
+Section: Tweaks
+Installed-Size: 160
+Maintainer: FEWLY1
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Name: LunarTime
+Author: fahlnbg
+Tag: purpose::extension
+Description: Add LunarCalender
+Filename: ./debs/lunartime.deb
+Size: 27276
+MD5sum: db2131b4a0b37d278ec136969cf8c7d9
+
+Package: com.fewly1.shuffle
+Version: 1.2.9
+Section: Tweaks
+Installed-Size: 1928
+Maintainer: fewly1
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Description: Phân chia các mục trong Cài đặt của bạn!
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Architecture: iphoneos-arm
+Name: Shuffle VN
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: fewly1
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Filename: ./debs/shuffle.deb
+Size: 394898
+MD5sum: 688d3dd8d1eca12312d676ac59308e3f
+
+Package: com.fewly1.starvpnpatch
+Name: Star VPN
+Author: Randy420 <(null)>
+Description: Starvpn Premium 
+Depends: mobilesubstrate
+Maintainer: Randy420 <(null)>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/starvpn.deb
+Size: 10190
+MD5sum: 7a18fca2848c78592a42379c6c376524
+
+Author: Agricu <1004571093@qq.com>
+Maintainer: fewly1
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+Name: Tiktok TQ No QC
+Package: com.fewly1.tiktoknoads
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.awemehack
+Section: Tweaks
+Installed-Size: 163
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Chặn tất cả Quảng cáo,Tải video không có Logo,tự phắt tiếp Video.Hỗ trợ từ Ios 9 đến ios 14.2.!
+Homepage: fewly1
+Sponsor: <http://fewly1.github.io>
+dev: agricu
+Tag: purpose::extension, compatible::ios13
+Filename: ./debs/tiktokchina.deb
+Size: 20552
+MD5sum: 5817f2c99c17677352bb10d28111b687
+
+Package: com.fewly1.tinder
+Name: Tinder Modded
+Author: 0xAya
+Description: Tinder vip
+Depends: mobilesubstrate
+Maintainer: fewly1
+Architecture: iphoneos-arm
+Section: Tweaks
+Installed-Size: 136
+Version: 1.0-1+debug
+Filename: ./debs/tindervip.deb
+Size: 12726
+MD5sum: aafd80784a408693423420bdbc5fe23e
+
+Package: com.fewly1.vpnmasterhack
+Name: VPN Master
+Author: md.furman
+Description: VPN Máter vip
+Maintainer: MainRepo
+Version: 1.1-1
+Section: Tweaks
+Installed-Size: 116
+Depends: mobilesubstrate
+Depiction: fewly1
+Architecture: iphoneos-arm
+Filename: ./debs/vpnmasterhack.deb
+Size: 6214
+MD5sum: e25b74b1d6d998640d30ab32c4514699
+
+Package: com.fewly1.youtopia
+Name: YouTopia
+Author: sinfool
+Description: Youtube: No Home Feed Ads, No Video Ads, Enable Background Playback
+Maintainer: fewly
+Version: 0.0.2
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: fewly1
+Architecture: iphoneos-arm
+Installed-Size: 152
+Icon: https://mainrepo.org/CydiaIcon.png
+Filename: ./debs/youtopia.deb
+Size: 5692
+MD5sum: d936f3db55b6a90bacdbd23d32c30bdc
+
+Package: com.fewly1.appshacks
+Version: 4.4
+Section: Tweaks
+Maintainer: fewly1
+Description: Kích hoạt bản quyền cho các ứng dụng trả phí.
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Installed-Size: 6220
+Name: Apps Hacks
+Author: hmodei96
+Depiction: fewly1.github.io
+Filename: ./debs/appshacks_4.deb
+Size: 3143312
+MD5sum: 0d222a09d55d385e5b911db8804292f4
+Depiction: https://fewly1.github.io/depictions/?p=com.fewly1.appshacks
+
+Name: Unity60FPS Việt Hoá
+Package: com.fewly-60fps.fgotw60FPS
+Priority: optional
+Depends: mobilesubstrate, preferenceloader, applist
+Version: 4.5.6
+Architecture: iphoneos-arm
+Description: Buộc trò chơi Unity hiển thị ở tốc độ khung hình tùy chỉnh (60/30).
+Sponsor: fewly1.github.io 
+Maintainer: fewly1 
+Author: Brend0n <brendonjkding@126.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 365
+dev: brend0n
+Filename: ./debs/60fps.deb
+Size: 99704
+MD5sum: d48896e0d6a87c40cda978662036f0eb
+
+Package: com.fewly1.appstore
+Name: AppStore+++
+Version: 0.9.13-2
+Architecture: iphoneos-arm
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
+Author: CokePokes <fewly1>
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Maintainer: fewly1 
+Filename: ./debs/appstore.deb
+Size: 680140
+MD5sum: 495b7858efa692ab4fe66b06dfe57a38
+
+Package: net.fewly1.appsyncunified
+Version: 84.0
+Section: Tweaks
+Maintainer: fewly1
+Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của bạn.
+Depends: firmware (>= 5.0), firmware (<= 14.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178,com.cydia.love.appsyncunified10
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Architecture: iphoneos-arm
+Installed-Size: 496
+Name: AppSync Unified
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: fewly1.github.io
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Filename: ./debs/appsyncunified_84.deb
+Size: 64388
+MD5sum: e37fd3ba24385c5d2d7b97a2bf31ad92
+
+Package: com.fewly.facebookdarkmode
+Name: FacebookDarkMode
+Version: 3.1.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 13.0), org.thebigboss.libcolorpicker, preferenceloader, com.foxfort.foxforttools (>= 1.1.2), com.foxfort.libfoxfortsplash, com.foxfort.libfoxfortutils (>= 1.1.4)
+Installed-Size: 896
+Author: FoxfortMobile
+Maintainer: fewly1
+Description: Dark mode for Facebook
+Icon: file:///Library/PreferenceBundles/facebookdarkmodesettings.bundle/icon@3x.png
+Filename: ./debs/facebookdarkmode_3.1.2.deb
+Size: 271192
+MD5sum: dc0b9bc490bbeea12015d601dcfa086f
+
+Package: com.fewly1.freefire
+Name: Garena Free Fire-New Beginning -JB MOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Garena Free Fire-New Beginning 1.56.1 - MOD 
+Maintainer: fewly1
+Author: TheArmKing
+Section: Tweaks
+Homepage: fewly1.github.io
+Version: 1.56.1
+Installed-Size: 616
+Filename: ./debs/freefire_1.56.1.deb
+Size: 278554
+MD5sum: d844c8b9892ba3288d83b04f696b7541
+
+Package: com.fewly1-klean.kleanhsls
+Name: Klean Việt Hoá
+Version: 1.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), com.spark.libsparkcolourpicker, com.bvnsupport-linpdd.libpddokdo
+Author: alimaulana
+Depiction: fewly.github.io
+Maintainer: fewly
+Description: Widget tuyệt vời cho Màn hình chính và Màn hình khóa
+Filename: ./debs/klean.kleanhsls_1.1.deb
+Size: 402652
+MD5sum: 1ba08a04e35a708dd49dfbdee7e236c7
+
+Package: com.fewly1.thaovjb
+Name: Garena RoV: RoV City - JB MOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Garena RoV: RoV City 1.37.1.4 - MOD 
+Maintainer: fewly1
+Author: TheArmKing
+Section: Tweaks
+Homepage: fewly1.github.io
+Version: 1.37.1.4
+Installed-Size: 612
+Filename: ./debs/garenarov.deb
+Size: 266866
+MD5sum: 470f543c025bbdb922efe545f1e827fe
+
+Package: com.fewly1.vnaovjb
+Name: Garena Liên Quân Mobile - JB MOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Garena Liên Quân Mobile 1.37.1.4 - MOD
+Maintainer: fewly1
+Author: TheArmKing
+Section: Tweaks
+Homepage: fewly1
+Version: 1.37.1.4
+Installed-Size: 612
+Filename: ./debs/lienquan.vnaovjb_1.37.1.4.deb
+Size: 266904
+MD5sum: 8f946e36f457b5b8680b7ffab4e0f1d7
+
+Package: com.fewly1.little12
+Name: Little12 Việt Hoá
+Version: 1.2.3
+Section: Tweaks
+Depiction: fewly1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Installed-Size: 1024
+Author: Ryan Nair
+Maintainer: fewly1.github.io
+Description: Cử chỉ iPhone 12 và hơn thế nữa cho iOS 14
+Filename: ./debs/little12_1.2.3.deb
+Size: 454946
+MD5sum: 6668fe435c1944aea0a81d30affe9960
+
+Package: com.fewly1.mlbbvn
+Name: Bang Bang VNG MOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Mobile Legends: Bang Bang VNG 1.5.46 - MOD
+Maintainer: fewly
+Author: TheArmKing
+Section: Tweaks
+Homepage: fewly1
+Version: 1.5.46
+Installed-Size: 1228
+Filename: ./debs/mlbbvn_1.5.46.deb
+Size: 493498
+MD5sum: b74ff7f094267735653a37a0e2943d6b
+
+Package: com.fewly1.myiapcracker
+Version: 2.2
+Section: Tweaks
+Maintainer: fewly1
+Description: Kích hoạt bản quyền VIP và chặn quảng cáo cho các ứng dụng.
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Installed-Size: 1136
+Name: MyIapCracker VN
+Author: Stem Grade
+Depiction: fewly1.github.io
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Filename: ./debs/myiapcracker_2.deb
+Size: 416136
+MD5sum: 147bca3cb4271b11a7c5c5cd152097ca
+
+Package: com.fewly1.pulloverprovitho
+Name: PullOver Pro Việt Hoá
+Version: 2.1.1
+Architecture: iphoneos-arm
+Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!
+Author: c1d3r <c1d3rdev@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Maintainer: fewly1 
+Filename: ./debs/pulloverprovitho_2.1.1.deb
+Size: 1562662
+MD5sum: 4db81975efa0715691a3f992f5213ef2
+
+Package: com.fewly1.icon
+Version: 1.0
+Section: System
+Essential: yes
+Maintainer: fewly1
+Description: Biểu tượng Cydia cho kho lưu trữ fewly1
+Architecture: iphoneos-arm
+Name: Icon Repo F
+Author: fewly1
+Filename: ./debs/com.fewly1.icon.deb
+Size: 22824
+MD5sum: 27be98f5b65a130b0ad7f143a0f63032
+
+Name: CHPUBG
+Package: com.fewly.chpubg
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 9.0)
+Version: 1.5.1
+Architecture: iphoneos-arm
+Description: Công cụ xóa các tệp trò chơi và tệp đăng nhập để bạn không bị vắng mặt lệnh cấm,
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: fewly1 <bigboss@thebigboss.org>
+Author: Thx <abdulmajeed-35@hotmail.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 1533
+dev: thx
+Filename: ./debs/chpubg.deb
+Size: 986068 
+MD5sum: 1b07d53d0ca766834fd7e4aaa8be8b6d
+
+Package: com.fewly1.emerald
+Version: 1.0.3
+Section: Tweaks
+Maintainer: fewly1
+Description: Hiển thị các tiện ích trên thanh trạng thái.
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Architecture: iphoneos-arm
+Installed-Size: 2628
+Name: Emerald VN
+Author: LaughingQuoll
+Depiction: http://fewly1.github.io
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhh.png
+Filename: ./debs/emerald.deb
+Size: 378860
+MD5sum: 34972100520d9cf667fd1023a705727e
+
+Package: com.fewly1.ytuhd
+Name: YTUHD SW
+Architecture: iphoneos-arm
+Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
+Maintainer: fewly1
+Author: fewly1
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Depiction: fewly1
+Version: 0.0.3.7
+Installed-Size: 136
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhh.png
+Filename: ./debs/ytuhd.deb
+Size: 4284
+MD5sum: 90398141a1b613316809dfa08c6f43ea
+
+Package: com.fewly1..youtubelite
+Name: YouTubeLite Việt Hoá
+Version: 0.9.2-beta
+Description: YoutubeLite Việt hoá
+ Công dụng:
+ * Chặn quảng cáo
+ * Phát lại nền
+ * Ẩn nút truyền
+ * Ẩn nút tải xuống
+ * Tắt cửa sổ bật lên
+ * Thay đổi kiểu MiniPlayer
+ * Tắt nhấn đúp
+ * Mở rộng Menu chia sẻ
+ * Tắt tự động phát
+ * Chế độ Ipad
+ + Hỗ trợ youtube phiên bản mới nhất!
+Author: Networke <re.errornetwork@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 562
+Section: Tweaks
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhh.png
+Architecture: iphoneos-arm
+Maintainer: fewly1 <nhatbien97@gmail.con>
+Filename: ./debs/com.fewly1..youtubelite_0.9.2-beta_iphoneos-arm.deb
+Size: 55908
+MD5sum:279f71c62d3cfffedcb6b4f9e0d182cb
+
+Package: com.fewly1.afsocial
+Version: 1.2
+Section: Tweaks
+Maintainer: fewly1
+Description: Thêm nhiều tính năng cho các ứng dụng mạng xã hội.
+Depends: mobilesubstrate
+Conflicts: co.azozzalfiras.afsocial, co.azozzalfiras.azflibrary
+Replaces: sileot.afsocial
+Architecture: iphoneos-arm
+Installed-Size: 6500
+Name: AFSocial Việt Hoá
+Author: Azozz ALFiras
+Depiction: Thêm nhiều tính năng cho các ứng dụng mạng xã hội.
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhh.png
+Filename: ./debs/com.fewly1.afsocial_1.2_iphoneos-arm.deb
+Size: 2168768
+MD5sum: dc82100a41ff0cf987d07f32ca5d5ce0
+
+Author: akusio
+Maintainer: fewly1
+Name: KernBypass VN
+Package: com.fewly1.kernbypassVN
+Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: jp.akusio.kernbypass, com.apple.memecity
+Replaces: jp.akusio.kernbypass-unofficial
+Section: System
+Architecture: iphoneos-arm
+Description: kernel level jailbreak detection bypass.
+Depiction: fewly1
+dev: akusio, Misty, Bvn, XsF1re 
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Applications/Cydia.app/Sections/hethonggg.png
+Version: 0.0.5
+Installed-Size: 920
+Filename: ./debs/com.fewly1.kernbypassvn_0.0.5_iphoneos-arm.deb
+Size: 142420
+MD5sum: 883a276c71ec03584185e97119b5282f
+
+Package: com.fewly1.translationvitho
+Name: Translation Việt Hoá
+Version: 1.4.9
+Architecture: iphoneos-arm
+Description: Cong cụ dịch miễn phí
+ Công dụng:
+ - Dịch nhanh các tài liệu và văn bản
+ - Bạn chỉ cần bôi đen phần chữ rồi chọn Translation để dịch nó ra tiếng mà bạn cần.
+Author: Sky - Pain <2398453359@qq.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhh.png
+Maintainer: fewly1
+Filename: ./debs/com.fewly1.translationvitho_1.4.9_iphoneos-arm.deb
+Size: 117964
+MD5sum: e3f0d5caccddbd76835a56ed3268d877
+
+Package: com.fewly1.choicy
+Name: Choicy
+Depends: mobilesubstrate, applist
+Architecture: iphoneos-arm
+Description: Advanced Tweak Configuration!
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Maintainer: fewly1
+Author: fewly1
+Section: Tweaks
+Version: 1.3.1
+Installed-Size: 868
+Filename: ./debs/choicy.deb
+Size: 117152
+MD5sum: 107bd76c9fe1633fda0527bcdfec03d9
+
+Package: com.fewly1.newterm2
+Name: NewTerm (iOS 10 – 14)
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Architecture: iphoneos-arm
+Description: A powerful terminal app for iOS
+Maintainer: fewly1
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhh.png
+Support: fewly1
+Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Version: 2.5
+Installed-Size: 6792
+Filename: ./debs/com.fewly1.newterm2_2.5_iphoneos-arm.deb
+Size: 2181356
+MD5sum: 5db05ccf893a675b6dde108d99e0b6f4
+
+Package: com.fewly.flyjbx
+Name: FlyJB X
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Version: 1.1.5
+Installed-Size: 1552
+Filename: ./debs/com.fewly.flyjbx_1.1.5_iphoneos-arm.deb
+Size: 632552
+MD5sum: 9caf38727923564f5633430738628ac8
+
+Package: com.fewly1.lunartime
+Version: 1.0.1
+Section: Tweaks
+Maintainer: fahlnbg
+Depends: mobilesubstrate (>= 0.9.5000), libfah , ws.hbang.common, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 356
+Name: LunarTime
+Author: fahlnbg
+Description: An awesome MobileSubstrate tweak!
+Depiction: âm lịch
+Filename: ./debs/com.fahlnbg.lunartime_1.0.deb
+Size: 56394
+MD5sum: c0fba07c7ce8c4692ad2ea8ecd1d0960
+
+Package: libfah
+Version: 0.1
+Section: System
+Maintainer: fahlnbg
+Architecture: iphoneos-arm
+Installed-Size: 176
+Name: libFAH
+Author: fahlnbg
+Tag: role::developer
+Description: An awesome library of some sort!!
+Depiction: hổ trợ lich am
+Filename: ./debs/libfah_0.deb
+Size: 32662
+MD5sum: 1f304ad8e220e9e0e7f052bc53119ebf
